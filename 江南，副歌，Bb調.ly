@@ -21,9 +21,9 @@ melody =
   b2 r4  
   
   b8  g  
-  a4  a'8  a2  g,8
+  a4  a'8  a2  c,8
   
-  g4  g'8  g2  
+  c4  g'8  g2  
   
   c,8  
   f  e  f  e  
