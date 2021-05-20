@@ -12,13 +12,13 @@ melody =
   c8  d  
   
   e  f  e  f  
-  g  f  e  c  
-  d2 r8  
+  g  f  e  c8~ c  
+  d2   
   
-  f  e  d  
+  f8  e  d  
   c  b  c  d  
-  e  d  c  d  
-  b2 r4  
+  e  d  c  d8~ d  
+  b2~ b8   
   
   b8  g  
   a4  a'8  a2  c,8
@@ -27,9 +27,9 @@ melody =
   
   c,8  
   f  e  f  e  
-  g  f  e  c  
+  g  f  e  c8~ c  
   
-  d2  
+  d2~ d8  
 
 
 
