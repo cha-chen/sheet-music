@@ -1,0 +1,33 @@
+
+  
+  
+    
+    melody = 
+    \relative c'{
+    {
+  \tempo 4=100
+  c8 g' c d e d c e
+  
+  e, g b c d c b d
+  
+  f, a c d e d c e
+  
+  f, aes c d e d f e
+  }
+}
+
+
+
+  
+}
+
+\score {
+ 
+    
+    
+    \new Voice = "one" {  \melody }
+    
+  
+  \layout { }
+  \midi { }
+}
